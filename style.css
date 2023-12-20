@@ -16,6 +16,7 @@ li a{
   border-style: solid;
   border-color: #FFFFFF;
   font-size: 16px;
+  color: #FFFFFF;
   background-color: #303045;
 }
 li a:hover{
