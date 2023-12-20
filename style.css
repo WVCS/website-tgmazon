@@ -11,31 +11,13 @@ li{
   color: white;
   font-family: "Courier";
 }
-li a1{
-  padding: 11px;
-  border-style: solid;
-  border-color: white;
-  background-color: white;
-  color: #353045;
-  font-size: 24px;
-  font-weight: bold;
-}
-li a2{
+li a{
   padding: 20px;
   border-style: solid;
   font-size: 16px;
   background-color: #303045;
 }
-li a2:hover{
-  background-color: #555065;
-}
-li a3{
-  padding: 20px;
-  border-style: solid;
-  font-size: 16px;
-  background-color: #303045;
-}
-li a3:hover{
+li a:hover{
   background-color: #555065;
 }
 h1{
